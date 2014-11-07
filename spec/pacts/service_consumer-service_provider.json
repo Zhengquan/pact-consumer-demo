@@ -1,0 +1,30 @@
+{
+  "provider": {
+    "name": "Service Provider"
+  },
+  "consumer": {
+    "name": "Service Consumer"
+  },
+  "interactions": [
+    {
+      "description": null,
+      "provider_state": "a product is created",
+      "request": {
+        "method": "get",
+        "path": "/products/1"
+      },
+      "response": {
+        "status": 200,
+        "headers": {
+          "Content-Type": "application/json"
+        },
+        "body": {
+          "name": "Book"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "pactSpecificationVersion": "1.0.0"
+  }
+}

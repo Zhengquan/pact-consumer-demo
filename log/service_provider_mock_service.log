@@ -1,0 +1,45 @@
+I, [2014-11-08T00:36:32.481812 #3838]  INFO -- : Cleared interactions before example "ServiceProviderClient#get should get the book with correct name"
+I, [2014-11-08T00:36:32.485268 #3838]  INFO -- : Registered expected interaction GET /products/1
+D, [2014-11-08T00:36:32.485421 #3838] DEBUG -- : {
+  "description": null,
+  "provider_state": "a product is created",
+  "request": {
+    "method": "get",
+    "path": "/products/1"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "body": {
+      "name": "Book"
+    }
+  }
+}
+I, [2014-11-08T00:36:32.489872 #3838]  INFO -- : Received request GET /products/1
+D, [2014-11-08T00:36:32.489965 #3838] DEBUG -- : {
+  "method": "get",
+  "path": "/products/1",
+  "query": "",
+  "headers": {
+    "Accept-Encoding": "gzip;q=1.0,deflate;q=0.6,identity;q=0.3",
+    "Accept": "*/*",
+    "User-Agent": "Ruby",
+    "Connection": "close",
+    "Host": "localhost:1234",
+    "Version": "HTTP/1.1"
+  }
+}
+I, [2014-11-08T00:36:32.490369 #3838]  INFO -- : Found matching response for GET /products/1
+D, [2014-11-08T00:36:32.490424 #3838] DEBUG -- : {
+  "status": 200,
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "name": "Book"
+  }
+}
+I, [2014-11-08T00:36:32.496696 #3838]  INFO -- : Verifying - interactions matched for example "ServiceProviderClient#get should get the book with correct name"
+I, [2014-11-08T00:36:32.500349 #3838]  INFO -- : Writing pact with details {:consumer=>{:name=>"Service Consumer"}, :provider=>{:name=>"Service Provider"}, :pactfile_write_mode=>"overwrite"}

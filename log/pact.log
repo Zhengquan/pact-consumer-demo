@@ -1,0 +1,56 @@
+# Logfile created on 2014-11-08 00:22:03 +0800 by logger.rb/44203
+I, [2014-11-08T00:22:03.929165 #3496]  INFO -- : Starting app Service Provider #<Pact::Consumer::MockService:0x007f8466266e38> on port 1234...
+I, [2014-11-08T00:22:04.257467 #3496]  INFO -- : Started with pid unknown
+I, [2014-11-08T00:22:04.257966 #3496]  INFO -- : Clearing all expectations
+I, [2014-11-08T00:22:04.262182 #3496]  INFO -- : Verifying interactions for ServiceProviderClient#get should get the book with correct name
+D, [2014-11-08T00:22:04.268936 #3496] DEBUG -- : Updating pact file for Service Provider at /Users/twer/WorkSpace/pact-consumer/spec/pacts/service_consumer-service_provider.json
+I, [2014-11-08T00:23:53.505102 #3514]  INFO -- : Starting app Service Provider #<Pact::Consumer::MockService:0x007fa90a396a60> on port 1234...
+I, [2014-11-08T00:23:53.624883 #3514]  INFO -- : Started with pid unknown
+I, [2014-11-08T00:23:53.625313 #3514]  INFO -- : Clearing all expectations
+I, [2014-11-08T00:23:53.632605 #3514]  INFO -- : Verifying interactions for ServiceProviderClient#get should get the book with correct name
+D, [2014-11-08T00:23:53.639014 #3514] DEBUG -- : Updating pact file for Service Provider at /Users/twer/WorkSpace/pact-consumer/spec/pacts/service_consumer-service_provider.json
+I, [2014-11-08T00:25:49.259081 #3549]  INFO -- : Starting app Service Provider #<Pact::Consumer::MockService:0x007fb3e2dcb548> on port 1234...
+I, [2014-11-08T00:25:49.682318 #3549]  INFO -- : Started with pid unknown
+I, [2014-11-08T00:25:49.682735 #3549]  INFO -- : Clearing all expectations
+I, [2014-11-08T00:25:49.690009 #3549]  INFO -- : Verifying interactions for ServiceProviderClient#get should get the book with correct name
+D, [2014-11-08T00:25:49.696131 #3549] DEBUG -- : Updating pact file for Service Provider at /Users/twer/WorkSpace/pact-consumer/spec/pacts/service_consumer-service_provider.json
+I, [2014-11-08T00:26:01.154768 #3564]  INFO -- : Starting app Service Provider #<Pact::Consumer::MockService:0x007f89764938b8> on port 1234...
+I, [2014-11-08T00:26:01.274010 #3564]  INFO -- : Started with pid unknown
+I, [2014-11-08T00:26:01.274402 #3564]  INFO -- : Clearing all expectations
+I, [2014-11-08T00:26:01.281899 #3564]  INFO -- : Verifying interactions for ServiceProviderClient#get should get the book with correct name
+D, [2014-11-08T00:26:01.288062 #3564] DEBUG -- : Updating pact file for Service Provider at /Users/twer/WorkSpace/pact-consumer/spec/pacts/service_consumer-service_provider.json
+I, [2014-11-08T00:26:14.085158 #3579]  INFO -- : Starting app Service Provider #<Pact::Consumer::MockService:0x007fda13b3f570> on port 1234...
+I, [2014-11-08T00:26:14.204467 #3579]  INFO -- : Started with pid unknown
+I, [2014-11-08T00:26:14.204853 #3579]  INFO -- : Clearing all expectations
+I, [2014-11-08T00:26:14.212404 #3579]  INFO -- : Verifying interactions for ServiceProviderClient#get should get the book with correct name
+D, [2014-11-08T00:26:14.218360 #3579] DEBUG -- : Updating pact file for Service Provider at /Users/twer/WorkSpace/pact-consumer/spec/pacts/service_consumer-service_provider.json
+I, [2014-11-08T00:27:26.137417 #3607]  INFO -- : Starting app Service Provider #<Pact::Consumer::MockService:0x007fa29b4b7568> on port 1234...
+I, [2014-11-08T00:27:26.258208 #3607]  INFO -- : Started with pid unknown
+I, [2014-11-08T00:27:26.258629 #3607]  INFO -- : Clearing all expectations
+I, [2014-11-08T00:27:32.503691 #3607]  INFO -- : Verifying interactions for ServiceProviderClient#get should get the book with correct name
+D, [2014-11-08T00:27:32.513012 #3607] DEBUG -- : Updating pact file for Service Provider at /Users/twer/WorkSpace/pact-consumer/spec/pacts/service_consumer-service_provider.json
+I, [2014-11-08T00:28:02.830415 #3634]  INFO -- : Starting app Service Provider #<Pact::Consumer::MockService:0x007fd7bb42f370> on port 1234...
+I, [2014-11-08T00:28:03.163168 #3634]  INFO -- : Started with pid unknown
+I, [2014-11-08T00:28:03.163583 #3634]  INFO -- : Clearing all expectations
+I, [2014-11-08T00:28:03.171073 #3634]  INFO -- : Verifying interactions for ServiceProviderClient#get should get the book with correct name
+D, [2014-11-08T00:28:03.176970 #3634] DEBUG -- : Updating pact file for Service Provider at /Users/twer/WorkSpace/pact-consumer/spec/pacts/service_consumer-service_provider.json
+I, [2014-11-08T00:32:33.091319 #3670]  INFO -- : Starting app Service Provider #<Pact::Consumer::MockService:0x007fa9c4233050> on port 1234...
+I, [2014-11-08T00:32:33.405082 #3670]  INFO -- : Started with pid unknown
+I, [2014-11-08T00:32:33.405416 #3670]  INFO -- : Clearing all expectations
+I, [2014-11-08T00:32:33.437513 #3670]  INFO -- : Verifying interactions for ServiceProviderClient#get should get the book with correct name
+D, [2014-11-08T00:32:33.444747 #3670] DEBUG -- : Updating pact file for Service Provider at /Users/twer/WorkSpace/pact-consumer/spec/pacts/service_consumer-service_provider.json
+I, [2014-11-08T00:35:35.030661 #3800]  INFO -- : Starting app Service Provider #<Pact::Consumer::MockService:0x007f9842989bd0> on port 1234...
+I, [2014-11-08T00:35:35.577752 #3800]  INFO -- : Started with pid unknown
+I, [2014-11-08T00:35:35.578131 #3800]  INFO -- : Clearing all expectations
+I, [2014-11-08T00:35:35.581998 #3800]  INFO -- : Verifying interactions for ServiceProviderClient#get should get the book with correct name
+D, [2014-11-08T00:35:35.588142 #3800] DEBUG -- : Updating pact file for Service Provider at /Users/twer/WorkSpace/pact-consumer/spec/pacts/service_consumer-service_provider.json
+I, [2014-11-08T00:35:52.214111 #3816]  INFO -- : Starting app Service Provider #<Pact::Consumer::MockService:0x007fd57b9753f8> on port 1234...
+I, [2014-11-08T00:35:52.328967 #3816]  INFO -- : Started with pid unknown
+I, [2014-11-08T00:35:52.329335 #3816]  INFO -- : Clearing all expectations
+I, [2014-11-08T00:35:52.337970 #3816]  INFO -- : Verifying interactions for ServiceProviderClient#get should get the book with correct name
+D, [2014-11-08T00:35:52.346112 #3816] DEBUG -- : Updating pact file for Service Provider at /Users/twer/WorkSpace/pact-consumer/spec/pacts/service_consumer-service_provider.json
+I, [2014-11-08T00:36:32.362546 #3838]  INFO -- : Starting app Service Provider #<Pact::Consumer::MockService:0x007ffa9d9dd448> on port 1234...
+I, [2014-11-08T00:36:32.478050 #3838]  INFO -- : Started with pid unknown
+I, [2014-11-08T00:36:32.478427 #3838]  INFO -- : Clearing all expectations
+I, [2014-11-08T00:36:32.491877 #3838]  INFO -- : Verifying interactions for ServiceProviderClient#get should get the book with correct name
+D, [2014-11-08T00:36:32.500441 #3838] DEBUG -- : Updating pact file for Service Provider at /Users/twer/WorkSpace/pact-consumer/spec/pacts/service_consumer-service_provider.json
