@@ -1,4 +1,4 @@
-RubyConf-WorkShop
+pact-consumer-demo
 =================
 
-Repository for workshop of Ruby China Conference 2014
+pact-consumer-demo
